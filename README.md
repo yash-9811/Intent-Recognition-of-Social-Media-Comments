@@ -10,10 +10,10 @@ The dataset is stored in an Excel file:
 ## 📷 Dataset Screenshots
 
 ### Sample View 1
-![Dataset Screenshot 1](https://github.com/yash-9811/Intent-Recognition-of-Social-Media-Comments/blob/main/dataset_ss1.png?raw=true)
+![Dataset Screenshot 1](https://github.com/yash-9811/projects-assets/blob/main/dataset_ss1.png?raw=true)
 
 ### Sample View 2
-![Dataset Screenshot 2](https://github.com/yash-9811/Intent-Recognition-of-Social-Media-Comments/blob/main/dataset_ss2.png?raw=true)
+![Dataset Screenshot 2](https://github.com/yash-9811/projects-assets/blob/main/dataset_ss2.png?raw=true)
 
 It contains two columns:
 - `Comment` – User-generated text input.
