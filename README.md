@@ -66,11 +66,7 @@ pip install torch transformers scikit-learn pandas openpyxl
 ---
 
 ## 📊 Evaluation
-
-After training, the model is evaluated using:
-
-- **Accuracy Score**
-- **Classification Report** (Precision, Recall, F1-score for each intent class)
+![Results](https://github.com/yash-9811/projects-assets/blob/main/evaluation_results.png?raw=true)
 
 ---
 
