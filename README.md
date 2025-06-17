@@ -1,5 +1,3 @@
-# Intent-Recognition-of-Social-Media-Comments
-
 # Intent Classification using BERT (Custom Dataset)
 
 This project fine-tunes a pre-trained BERT model (`bert-large-uncased`) for **intent classification** based on a self-curated dataset of user comments. The model is trained to identify the intent behind a comment and provide a confidence score for its prediction.
